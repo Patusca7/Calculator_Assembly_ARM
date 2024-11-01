@@ -13,6 +13,7 @@ Technologies used:
 Assembly ARMv8
 Terminal for execution and interaction with the user
 
+My colleague did the menu part and I did all the functions and tests
 -------------------------------------------------------
 
 Português
@@ -30,3 +31,5 @@ Tratamento de entrada de valores através de rotinas específicas para solicitar
 Tecnologias Utilizadas:
 Assembly ARMv8
 Terminal para execução e interação com o utilizador
+
+O meu colega fez a parte do menu e eu fiz a parte das funções e dos testes
